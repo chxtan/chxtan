@@ -105,8 +105,9 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chetanrakhra&repo=Python-flask-blog&theme=tokyonight)](https://github.com/chetanrakhra/Python-flask-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chetanrakhra&repo=Newspaper-Reading&theme=tokyonight)](https://github.com/chetanrakhra/Newspaper-Reading)
-
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
                  
 ![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanrakhra&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanrakhra&theme=tokyonight)
+
+                 
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
