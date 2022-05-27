@@ -67,10 +67,11 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 👧 I’m currently exploring DevOps tools like, Docker, Kubernetes, Ansible, Terraform, Jenkins.
+- 👀 I’m currently exploring DevOps tools like, Docker, Kubernetes, Ansible, Terraform, Jenkins.
 - 🌱 Good handson on Linux and Windows systems.                                                                                            
 - 👯 Designing some cool web pages with the help of HTML, CSS, JS.
 - ⚡️ Fun-Fact I started writing blogs, [Medium blog](https://medium.com/@chetxn) on DevOps.
+- ❓  Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
 - 💬 Ping me on my mail, I am happy to help.
 - 📫 How to reach me:chetanrakhra@gmail.com
 - 📝[Resume]()/)
