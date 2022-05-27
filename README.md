@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <br >
 <br />
 
-**Just a Introduction:**
+**Just an Introduction:**
 
 Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I designed some cool web pages. I am passionate about technology🚀 and want to explore more and more. 💻 I love photography, playing cricket and listening to music and watching web series.
 
@@ -67,13 +67,13 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-- 👧 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently learning Django and Flask and after i will go for React
-- 💬 Ask me about anything, I am happy to help
-- 👯 I’m looking to collaborate on making any tech community
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/chetanrakhra) in 2020 Also made a tech insta account [Python Blog](https://www.instagram.com/Py.prog/)
+- 👧 I’m currently exploring DevOps tools like, Docker, Kubernetes, Ansible, Terraform, Jenkins.
+- 🌱 Good handson on Linux and Windows systems.                                                                                            
+- 👯 Designing some cool web pages with the help of HTML, CSS, JS.
+- ⚡️ Fun-Fact I started writing blogs, [Medium blog]([https://medium.com/@chetxn]) on DevOps.
+- 💬 Ping me on my mail, I am happy to help.
 - 📫 How to reach me:chetanrakhra@gmail.com
-- 📝[Resume](https://www.linkedin.com/in/chetan-rakhra-8126bb145/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACMqYc4Bcmrbq1Fkz-7NiPh6jS21cQHvG98,1594114887161)/)
+- 📝[Resume]()/)
 
 
 
