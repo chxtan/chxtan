@@ -1,4 +1,3 @@
-![Screenshot 2022-05-27 162450](https://user-images.githubusercontent.com/58957605/170687728-100a9ce3-49f5-4c38-b877-ba7a56e66c75.jpg)
 ### Hi there 👋  
 
 <!--
@@ -82,9 +81,9 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 ## Connect with Me 🤝🏻
 
 
+![Screenshot 2022-05-27 162450](https://user-images.githubusercontent.com/58957605/170687728-100a9ce3-49f5-4c38-b877-ba7a56e66c75.jpg)
 
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
 **Languages and Tools:**
                                                                                                                                                      
@@ -107,6 +106,7 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chetanrakhra&repo=Python-flask-blog&theme=tokyonight)](https://github.com/chetanrakhra/Python-flask-blog)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chetanrakhra&repo=Newspaper-Reading&theme=tokyonight)](https://github.com/chetanrakhra/Newspaper-Reading)
 
-
+![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+                 
 ![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanrakhra&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanrakhra&theme=tokyonight)
