@@ -44,9 +44,6 @@ Here are some ideas to get you started:
 <a href="https://t.me/ 7">
 <img align="left" alt="Chetan Rakhra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/el_resistant/">
-<img align="left" alt="Chetan Rakhra Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
 
 <br >
@@ -76,12 +73,12 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 - 📫 How to reach me:chetanrakhra@gmail.com
 - 📝[Resume]()/)
 
-
+![Screenshot 2022-05-27 162450](https://user-images.githubusercontent.com/58957605/170687728-100a9ce3-49f5-4c38-b877-ba7a56e66c75.jpg)
 
 ## Connect with Me 🤝🏻
 
 
-![Screenshot 2022-05-27 162450](https://user-images.githubusercontent.com/58957605/170687728-100a9ce3-49f5-4c38-b877-ba7a56e66c75.jpg)
+
 
 
 
@@ -93,7 +90,7 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chetanrakhra&repo=Newspaper-Reading&theme=tokyonight)](https://github.com/chetanrakhra/Newspaper-Reading)
                  
 ![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanrakhra&show_icons=true&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanrakhra&theme=tokyonight)
 
                  
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
