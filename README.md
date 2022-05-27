@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Chetan Rakhra" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chetan-rakhra-8126bb145/">
-<img color="white" align="left" alt="Chetan Rakhra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Chetan Rakhra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ 7">
 <img align="left" alt="Chetan Rakhra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 **Just a Introduction:**
 
-Hi, I'm Chetan Rakhra, A Student and Learner 🚀 from Punjab, India, currently 💻 doing my undergraduate Btech (final year) from MIMIT Malout and I am passionate about technology and want to learn & explore new technologies I'm an Intern 💻  Beside's Computer Science, I love photography and playing basketball and cricket.
+Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I designed some cool web pages. I am passionate about technology🚀 and want to explore more and more. 💻 I love photography, playing cricket and listening to music and watching web series.
 
 
 ## My GitHub contributions as a Game of Life
