@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Chetan Rakhra" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chetan-rakhra-8126bb145/">
-<img align="left" alt="Chetan Rakhra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img color="white" align="left" alt="Chetan Rakhra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/ 7">
 <img align="left" alt="Chetan Rakhra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
