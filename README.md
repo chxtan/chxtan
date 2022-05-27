@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I designed some cool web pages. I am passionate about technology🚀 and want to explore more and more. 💻 I love photography, playing cricket and listening to music and watching web series.
 
 
-## My GitHub contributions as a Game of Life
+## **Talking about Personal Stuffs:**
 [![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chetanrakhra)
 
 
 
 
-**Talking about Personal Stuffs:**
+
   
  
 
