@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 
 Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I designed some cool web pages. I am passionate about technology🚀 and want to explore more and more. 💻 I love photography, playing cricket and listening to music and watching web series.
 
+<br >
+<br />
 
 ## **Talking about Personal Stuffs:**
 [![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chetanrakhra)
@@ -70,7 +72,7 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 - ⚡️ Fun-Fact I started writing blogs, [Medium blog](https://medium.com/@chetxn) on DevOps.
 - ❓  Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
 
-                                                                                               <br>
+                                                                                               
 ![Screenshot 2022-05-27 162450](https://user-images.githubusercontent.com/58957605/170687728-100a9ce3-49f5-4c38-b877-ba7a56e66c75.jpg)
 
 ## Connect with Me 🤝🏻
