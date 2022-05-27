@@ -55,7 +55,7 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 
 
 ## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chetanrakhra)
+
 
 
 
