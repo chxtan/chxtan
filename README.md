@@ -80,6 +80,6 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 - ❓ Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
 
                                                                                                
-<img align="center" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
+<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
                  
 
