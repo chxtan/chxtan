@@ -77,33 +77,14 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 ## **Talking about Personal Stuffs:**
 [![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chetanrakhra)
 
-- 👀 I’m currently exploring DevOps tools like, Docker, Kubernetes, Ansible, Terraform, Jenkins.
+- 👀 I’m currently exploring DevOps tools like, Docker, Kubernetes, Ansible, Terraform, Jenkins and obviously Git 🤠.
 - 🌱 Good handson on Linux and Windows systems.                                                                                            
 - 👯 Designing some cool web pages with the help of HTML, CSS, JS.
-- ⚡️ Fun-Fact I started writing blogs, [Medium blog](https://medium.com/@chetxn) on DevOps.
-- ❓  Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
+- ⚡️ I started writing blogs, [Medium blog](https://medium.com/@chetxn) on DevOps.
+- ❓ Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
 
                                                                                                
 ![Screenshot 2022-05-27 162450](https://user-images.githubusercontent.com/58957605/170687728-100a9ce3-49f5-4c38-b877-ba7a56e66c75.jpg)
-
-## Connect with Me 🤝🏻
-
-- 💬 Ping me on my mail, I am happy to help.
-- 📫 How to reach me:chetanrakhra@gmail.com
-- 📝[Resume]()/)
-
-
-
-
-
-</p>
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chetanrakhra&repo=Python-flask-blog&theme=tokyonight)](https://github.com/chetanrakhra/Python-flask-blog)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=chetanrakhra&repo=Newspaper-Reading&theme=tokyonight)](https://github.com/chetanrakhra/Newspaper-Reading)
-                 
-![Chetan's github stats](https://github-readme-stats.vercel.app/api?username=chetanrakhra&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chetanrakhra&theme=tokyonight)
 
                  
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
