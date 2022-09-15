@@ -82,4 +82,4 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
                                                                                                
 <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
                  
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+
