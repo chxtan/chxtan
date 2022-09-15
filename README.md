@@ -80,6 +80,6 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 - ❓ Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
 
                                                                                                
-https://user-images.githubusercontent.com/58957605/190495148-85ad1fde-a201-4cf4-aa16-6c508e44e3a9.mp4
+<img src="https://user-images.githubusercontent.com/58957605/190495148-85ad1fde-a201-4cf4-aa16-6c508e44e3a9.mp4"></img>
                  
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
