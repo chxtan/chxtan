@@ -43,25 +43,25 @@ Here are some ideas to get you started:
 <img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
 
- <a href="https://medium.com/@chxtan">
+ <a href="https://medium.com/@chetxn">
 <img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
 </a>
-
-
- 
-
 
 <a href="https://github.com/chxtan">
 <img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
- 
-
- 
- 
-
-
-
 </div>
+
+
+<div align="center">
+
+ Resume: 
+<a href="">Click here</a>
+
+Portfolio: 
+<a href="https://chxtan.netlify.app/"> Click Here</a>
+ 
+ </div>
 
 
 <br >
