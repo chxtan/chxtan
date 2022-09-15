@@ -1,3 +1,5 @@
+
+
 <p align="center">
 
 <h2 align="center">
@@ -78,7 +80,6 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 - ❓ Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
 
                                                                                                
-![Screenshot 2022-05-27 162450](https://user-images.githubusercontent.com/58957605/170687728-100a9ce3-49f5-4c38-b877-ba7a56e66c75.jpg)
-
+https://user-images.githubusercontent.com/58957605/190495148-85ad1fde-a201-4cf4-aa16-6c508e44e3a9.mp4
                  
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
