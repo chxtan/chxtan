@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 
  
  <h2 align="center">Welcome To My Repository</h2>
- <p align="center">Chetan Rakhra </p>
 </p>
 
 
@@ -30,20 +29,39 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
+  <br>
   <img src="https://profile-counter.glitch.me/chetanrakhra/count.svg" />
 </p>
 
 
 
-<a href="https://twitter.com/">
-<img align="left" alt="Chetan Rakhra" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<h1 align="center" >Have an idea? Let's connect:</h1>
+
+
+<div  align="center" gap="20px">
+<a href="https://www.linkedin.com/in/chetanrakhra/">
+<img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/chetan-rakhra-8126bb145/">
-<img align="left" alt="Chetan Rakhra LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+
+ <a href="https://medium.com/@chxtan">
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
 </a>
-<a href="https://t.me/ 7">
-<img align="left" alt="Chetan Rakhra" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+
+
+ 
+
+
+<a href="https://github.com/chxtan">
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
+ 
+
+ 
+ 
+
+
+
+</div>
 
 
 <br >
