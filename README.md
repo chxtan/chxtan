@@ -14,7 +14,7 @@
  <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
  
- <h2 align="center">Welcome To My Repository</h2>
+ <h2 align="center">Welcome To My Place</h2>
 </p>
 
 
