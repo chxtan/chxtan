@@ -1,19 +1,13 @@
-### Hi there 👋  
+<p align="center">
 
-<!--
-**chetanrakhra/chetanrakhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">
+ 
+ 👋 Hi, I’m Chetan 
 
-Here are some ideas to get you started:
+</h2>
+ 
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
  
  
