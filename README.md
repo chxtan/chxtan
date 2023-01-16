@@ -1,14 +1,9 @@
-
-
 <p align="center">
-
 <h2 align="center">
  
  👋 Hi, I’m Chetan 
 
-</h2>
- 
- </p>
+</h2></p>
 
 <p align="center">
  
@@ -74,6 +69,9 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
   <a href="https://www.ansible.com/" target="_blank" >
     <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  height="90" />
   </a>
+  
+  <br >
+<br />
 
 ## **Talking about Personal Stuffs:**
 [![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chetanrakhra)
