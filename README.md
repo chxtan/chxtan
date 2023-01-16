@@ -31,34 +31,6 @@
 
 
 
-<h1 align="center" >Have an idea? Let's connect:</h1>
-
-
-<div  align="center" gap="20px">
-<a href="https://www.linkedin.com/in/chetanrakhra/">
-<img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
-</a>
-
- <a href="https://medium.com/@chetxn">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
-</a>
-
-<a href="https://github.com/chxtan">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
-</a>
-</div>
-
-
-<div align="center">
-
- Resume: 
-<a href="">Click here</a>
-
-Portfolio: 
-<a href="https://chxtan.netlify.app/"> Click Here</a>
- 
- </div>
-
 
 <br >
 <br />
@@ -114,5 +86,35 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 
                                                                                                
 <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
-                 
+
+
+<h1 align="center" >Have an idea? Let's connect:</h1>
+
+
+<div  align="center" gap="20px">
+<a href="https://www.linkedin.com/in/chetanrakhra/">
+<img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a>
+
+ <a href="https://medium.com/@chetxn">
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
+</a>
+
+<a href="https://github.com/chxtan">
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+</a>
+</div>
+
+
+<div align="center">
+
+ Resume: 
+<a href="">Click here</a>
+
+Portfolio: 
+<a href="https://chxtan.netlify.app/"> Click Here</a>
+ 
+ </div>
+
+
 
