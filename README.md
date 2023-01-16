@@ -69,14 +69,10 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 <br >
 <br />
 
-# Streaks
-
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&" alt="rishikeshops" /></p>
 
 <br >
 <br />
-
-# Skills
 
 ## :zap: Skills
 
