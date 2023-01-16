@@ -66,6 +66,8 @@ Portfolio:
 **Just an Introduction:**
 
 Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I designed some cool web pages. I am passionate about technology🚀 and want to explore more and more. 💻 I love photography, playing cricket and listening to music and watching web series.
+<br >
+<br />
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&" alt="rishikeshops" /></p>
 
