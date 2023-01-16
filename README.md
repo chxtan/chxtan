@@ -74,8 +74,7 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 <br />
 
 ## **Talking about Personal Stuffs:**
-[![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chetanrakhra)
-
+[![GitHub Game of Life](https://github4life.herokuapp.com/chetanrakhra.gif?z=6)](https://github4life.herokuapp.com/chxtan)
 - 👀 I’m currently exploring DevOps tools like, Docker, Kubernetes, Ansible, Terraform, Jenkins and obviously Git 🤠.
 - 🌱 Good handson on Linux and Windows systems.                                                                                            
 - 👯 Designing some cool web pages with the help of HTML, CSS, JS.
@@ -105,14 +104,9 @@ Hi, This is Chetan, A DevOps Engineer. I have a strong hand in Web designing. I 
 
 
 <div align="center">
-
- Resume: 
+Resume: 
 <a href="">Click here</a>
 
 Portfolio: 
 <a href="https://chxtan.netlify.app/"> Click Here</a>
- 
- </div>
-
-
-
+</div>
