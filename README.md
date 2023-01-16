@@ -74,11 +74,11 @@ Hi, This is Chetan, A DevOps⚙️ Engineer. Have some good hands-on over differ
 <br />
 
 ## **Talking about Personal Stuffs:**
-- 👀 I’m currently exploring DevOps tools like, Docker, Kubernetes, Ansible, Terraform, Jenkins and obviously Git 🤠.
-- 🌱 Good handson on Linux and Windows systems.                                                                                            
+- 👀 I’m currently creating projects using different tools and posting implementation steps over LinkedIn and Medium.
+- 🌱 Good handson on Linux and Windows, both the operating systems.                       
 - 👯 Designing some cool web pages with the help of HTML, CSS, JS.
-- ⚡️ I started writing blogs, [Medium blog](https://medium.com/@chetxn) on DevOps.
-- ❓ Ask me about DevOps, Docker, Kubernetes, Ansible, Terraform, Jenkins, Git, HTML, CSS, JS.
+- ⚡️ Checkout my Blog, [Medium blog](https://medium.com/@chetxn) on DevOps.
+- ❓ Ask me about DevOps or discuss any problem over a coffee, My Inbox is always open.
 
                                                                                                
 <img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
