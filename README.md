@@ -11,6 +11,7 @@ Welcome To My Place
 
 <br>
 <br>
+<hr>
 
 <p align="center"> 
   Visitor count<br>
@@ -19,6 +20,7 @@ Welcome To My Place
 </p>
 <br >
 <br />
+<hr>
 
 <p align="center">
   Streak 🔥🔥 <br>
