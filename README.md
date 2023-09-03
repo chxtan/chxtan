@@ -11,6 +11,14 @@ Welcome To My Place
 
 <br>
 <br>
+
+- 🔭 I’m currently **learning Terraform, Kubernetes**
+- 📝 I regularly post articles on **Various DevOps Concepts**
+
+- 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Azure, Terraform**
+
+- ⚡ Fact **"Remember,,, Why you started."**
+
 <hr>
 
 <p align="center"> 
