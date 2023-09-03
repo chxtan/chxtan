@@ -37,10 +37,8 @@ Welcome To My Place
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
 
 <br >
-<br />
-
-
 <h3 align="center">🧋🧋🧋</h3>
+<hr>
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
