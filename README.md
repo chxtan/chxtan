@@ -110,14 +110,12 @@ Welcome To My Place
 
 <div align="center" gap="20px">
 <a href="https://twitter.com/chxtan_">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
+<img  width="50px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/chxtan_">
-<img  width="100px" src="https://img.shields.io/badge/Web-site-blue" />
+<a href="https://chxtan.netlify.app/">
+<img  width="50px" src="https://img.shields.io/badge/Web-site-blue" />
 </a>
 
-<a href="https://twitter.com/chxtan_">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
-</a>
+
 </div>
