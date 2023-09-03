@@ -22,24 +22,6 @@ Welcome To My Place
 
 <hr>
 
-<p align="center"> 
-  Visitor count<br>
-  <br>
-  <img src="https://profile-counter.glitch.me/chetanrakhra/count.svg" />
-</p>
-<br >
-<br />
-<hr>
-
-<p align="center">
-  Streak 🔥🔥 <br>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
-
-<br>
-<h3 align="center">🧋🧋🧋</h3>
-<hr>
-
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
    ## :zap: Skills
@@ -90,6 +72,24 @@ Welcome To My Place
 </p>
   
 <br>
+
+<hr>
+<p align="center"> 
+  Visitor count<br>
+  <br>
+  <img src="https://profile-counter.glitch.me/chetanrakhra/count.svg" />
+</p>
+<br >
+<br />
+<hr>
+
+<p align="center">
+  Streak 🔥🔥 <br>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
+
+<br>
+<h3 align="center">🧋🧋🧋</h3>
 <hr>
 
 <h1 align="center" >Have an idea? Let's connect:</h1>
