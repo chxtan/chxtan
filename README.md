@@ -96,25 +96,25 @@ Welcome To My Place
 
 <div align="center" gap="20px">
 <a href="https://www.linkedin.com/in/chetanrakhra/">
-<img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://medium.com/@chetxn">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
 </a>
 
 <a href="https://github.com/chxtan">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 </div>
 
 <div align="center" gap="20px">
 <a href="https://twitter.com/chxtan_">
-<img  width="50px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://chxtan.netlify.app/">
-<img  width="50px" src="https://img.shields.io/badge/Web-site-blue" />
+<img  width="70px" src="https://img.shields.io/badge/Web-site-blue" />
 </a>
 
 
