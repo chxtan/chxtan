@@ -93,21 +93,21 @@ Welcome To My Place
 <hr>
 
 <h1 align="center" >Have an idea? Let's connect:</h1>
-<div  align="center" gap="10px">
+<div gap="20px">
 <a href="https://www.linkedin.com/in/chetanrakhra/">
-<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+<img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
 
  <a href="https://medium.com/@chetxn">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
 </a>
 
 <a href="https://github.com/chxtan">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
 </a>
 </div>
 
 <a href="https://twitter.com/chxtan_">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
 </a>
 </div>
