@@ -6,6 +6,8 @@ Welcome To My Place
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h2 align="center">👋 Hi, I’m Chetan</h2>
+  DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
+
 </p>
 
 <p align="center"> 
