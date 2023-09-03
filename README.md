@@ -94,7 +94,7 @@ Welcome To My Place
 
 <h1 align="center" >Have an idea? Let's connect:</h1>
 
-<div gap="20px">
+<div align="center" gap="20px">
 <a href="https://www.linkedin.com/in/chetanrakhra/">
 <img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
 </a>
@@ -108,13 +108,13 @@ Welcome To My Place
 </a>
 </div>
 
-<div gap="20px">
+<div align="center" gap="20px">
 <a href="https://twitter.com/chxtan_">
 <img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
 </a>
 
 <a href="https://twitter.com/chxtan_">
-<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
+<img  width="100px" src="https://img.shields.io/badge/Web-site-blue" />
 </a>
 
 <a href="https://twitter.com/chxtan_">
