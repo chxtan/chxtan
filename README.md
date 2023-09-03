@@ -61,17 +61,15 @@ Hi, This is Chetan, A DevOps⚙️ Engineer. Have some good hands-on over differ
  </a>
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
-    ![ani](https://github.com/chxtan/chxtan/assets/58957605/0e7786ff-8266-4621-836d-340b77a26a70)
-
   </a>
   
   <br >
 <br />
 
-## **Talking about Personal Stuffs:**
+## **Talking about Personal Stuff:**
 - 👀 I’m currently creating projects using different tools and posting implementation steps over LinkedIn and Medium.
-- 🌱 Good handson on Linux and Windows, both the operating systems.                       
-- 👯 Designing some cool web pages with the help of HTML, CSS, JS.
+- 🌱 Good hands-on on Linux and Windows, both operating systems.                       
+- 👯 Designing some cool web pages with the help of HTML, CSS, and JS.
 - ⚡️ Checkout my Blog, [Medium blog](https://medium.com/@chetxn) on DevOps.
 - ❓ Ask me about DevOps or discuss any problem over a coffee, My Inbox is always open.
 
