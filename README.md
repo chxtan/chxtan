@@ -86,13 +86,13 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 <br />
 <hr>
 
+## :zap: Streak 🔥🔥
 <p align="center">
-  Streak 🔥🔥 <br>
-  <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
-
-<br>
-<h3 align="center">🧋🧋🧋</h3>
+   <br>
+   <br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
+   <br>
+<h1 align="center">🧋🧋🧋</h1>
 <hr>
 
 <h1 align="center" >Have an idea? Let's connect:</h1>
