@@ -75,8 +75,9 @@ Welcome To My Place
 <br>
 
 <hr>
+## :zap: Profile Views
 <p align="center"> 
-  Profile Views >>> <br>
+   <br>
   <br>
   <img src="https://profile-counter.glitch.me/chetanrakhra/count.svg" />
 </p>
