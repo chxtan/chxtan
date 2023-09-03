@@ -107,6 +107,11 @@ Welcome To My Place
 </a>
 </div>
 
+<a href="https://twitter.com/chxtan_">
+<img  width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
+</a>
+</div>
+
 
 <div align="center">
 Resume: 
