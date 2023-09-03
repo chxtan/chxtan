@@ -93,20 +93,7 @@ Welcome To My Place
 <br>
 <br>
 
-## **Talking about Personal Stuff:**
-- 👀 I’m currently creating projects using different tools and posting implementation steps over LinkedIn and Medium.
-- 🌱 Good hands-on on Linux and Windows, both operating systems.                       
-- 👯 Designing some cool web pages with the help of HTML, CSS, and JS.
-- ⚡️ Checkout my Blog, [Medium blog](https://medium.com/@chetxn) on DevOps.
-- ❓ Ask me about DevOps or discuss any problem over a coffee, My Inbox is always open.
-
-                                                                                               
-<img src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/04/21121916/gif-integration-deployment-min.gif"></img>
-
-
 <h1 align="center" >Have an idea? Let's connect:</h1>
-
-
 <div  align="center" gap="20px">
 <a href="https://www.linkedin.com/in/chetanrakhra/">
 <img width="100px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
