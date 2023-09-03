@@ -7,8 +7,10 @@ Welcome To My Place
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 <h2 align="center">👋 Hi, I’m Chetan</h2>
   DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
-
 </p>
+
+<br>
+<br>
 
 <p align="center"> 
   Visitor count<br>
@@ -18,9 +20,10 @@ Welcome To My Place
 <br >
 <br />
 
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
+<p align="center">
+  Streak 🔥🔥 <br>
+  <br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
 
 <br >
 <br />
