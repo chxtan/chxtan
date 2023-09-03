@@ -27,8 +27,6 @@ Hi, This is Chetan, A DevOps⚙️ Engineer. Have some good hands-on over differ
 <br >
 <br />
 
-## :zap: Skills
-
    ## :zap: Skills
 
    <a href="https://www.linux.org/" target="_blanfalse" />
@@ -63,6 +61,8 @@ Hi, This is Chetan, A DevOps⚙️ Engineer. Have some good hands-on over differ
  </a>
   <a href="https://code.visualstudio.com/" target="_blank" >
     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+    ![ani](https://github.com/chxtan/chxtan/assets/58957605/0e7786ff-8266-4621-836d-340b77a26a70)
+
   </a>
   
   <br >
