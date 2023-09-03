@@ -6,7 +6,7 @@ Welcome To My Place
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
   <hr>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=chxtan&label=Profile%20views&color=0e75b6&style=flat" alt="chxtan" /> </p>
+  
 <h2 align="center">👋 Hi, I’m Chetan</h2>
   DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
 </p>
@@ -76,7 +76,7 @@ Welcome To My Place
 
 <hr>
 <p align="center"> 
-  Visitor count<br>
+  Profile Views >>> <br>
   <br>
   <img src="https://profile-counter.glitch.me/chetanrakhra/count.svg" />
 </p>
