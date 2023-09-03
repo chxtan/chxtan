@@ -36,7 +36,7 @@ Welcome To My Place
   <br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan"></p>
 
-<br >
+<br>
 <h3 align="center">🧋🧋🧋</h3>
 <hr>
 
@@ -90,7 +90,7 @@ Welcome To My Place
 </p>
   
 <br>
-<br>
+<hr>
 
 <h1 align="center" >Have an idea? Let's connect:</h1>
 <div  align="center" gap="20px">
