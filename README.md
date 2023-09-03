@@ -28,7 +28,7 @@ Hi, This is Chetan, A DevOps⚙️ Engineer. Have some good hands-on over differ
 <br />
 
 
-<h3 align="center">\</h3>
+<h3 align="center">🧋🧋🧋</h3>
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
