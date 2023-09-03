@@ -22,7 +22,8 @@ Hi, This is Chetan, A DevOps⚙️ Engineer. Have some good hands-on over differ
 <br >
 <br />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&" alt="rishikeshops" /></p>
+# <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&" alt="chetan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chxtan&&theme=radical&line_height=27&v=5" alt="chetan" /></p>
 
 <br >
 <br />
