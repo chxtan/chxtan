@@ -1,11 +1,11 @@
 <p align="center">
 <h2 align="center"> 
-👋 Hi, I’m Chetan 
+Welcome To My Place 
 </h2></p>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-<h2 align="center">Welcome To My Place</h2>
+<h2 align="center">👋 Hi, I’m Chetan</h2>
 </p>
 
 <p align="center"> 
