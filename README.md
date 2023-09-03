@@ -5,23 +5,6 @@ Welcome To My Place
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-  <hr>
-  
-<h2 align="center">👋 Hi, I’m Chetan</h2>
-  DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansible | Kubernetes | Technical Blogger | Ex-HCLite | Passionate about writing Technical Blogs on various DevOps concepts.
-</p>
-
-<br>
-<br>
-
-- 🔭 I’m currently **learning Terraform, Kubernetes**
-- 📝 I regularly post articles on **Various DevOps Concepts**
-
-- 💬 You can ask me about **Linux, Docker, Kubernetes, Jenkins, AWS, Azure, Terraform**
-
-- ⚡ Fact **"Remember,,, Why you started."**
-
-<hr>
 
 <img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 
