@@ -115,10 +115,4 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 <a href="https://twitter.com/chxtan_">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=twitter&logoColor=white" />
 </a>
-
-<a href="https://chxtan.netlify.app/">
-<img  width="70px" src="https://img.shields.io/badge/Web-site-blue" />
-</a>
-
-
 </div>
