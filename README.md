@@ -98,9 +98,9 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
 <h1 align="center" >Have an idea? Let's connect:</h1>
 
 <div align="center" gap="20px">
-<a href="https://www.linkedin.com/in/chetanrakhra/">
+<!-- <a href="https://www.linkedin.com/in/chetanrakhra/">
 <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
-</a>
+</a> -->
 
 <a href="https://medium.com/@chetxn">
 <img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=medium&logoColor=white" />
