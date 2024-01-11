@@ -57,9 +57,7 @@ DevOps Engineer @TCS | Docker | Linux | Jenkins | AWS | Git | Terraform | Ansibl
   </a>
  </a>
   <a href="https://code.visualstudio.com/" target="_blank" >
-  ![image_processing20220115-31097-164ehmx](https://github.com/chxtan/chxtan/assets/58957605/61612b30-0086-4884-b1ae-5e6754cbe5f8)
-
-    # <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
+     <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp"  height="80" /> 
   </a>
 
  ### Monitoring
